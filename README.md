@@ -22,7 +22,8 @@ Installations Guidance for Shopify Payment App
 --------------------------
 
 <!-- - [Installation Guide](https://github.com/RazerMS/Hosted_Payment_for_Shopify_Plugin/wiki/Hosted-Payment-for-Shopify-Guide) (Old) -->
-- [Installation Guide](https://github.com/FiuuPayment/Shopping-Cart-Plugins-Fiuu_Hosted_Payment_for_Shopify/wiki/Hosted-Payment-for-Shopify-Guide-2022) ( 2022  - Latest )
+- [Installation Guide](https://github.com/FiuuPayment/Shopping-Cart-Plugins-Fiuu_Hosted_Payment_for_Shopify/wiki/Hosted-Payment-for-Shopify-Guide-2022)
+- [Card Payment Integration](https://docs.fiuu.dev/reference/sp1-card-overview)
 
 
 ## Resources
