@@ -32,7 +32,7 @@ Installations Guidance for Shopify Payment App
 
 - GitHub:     https://github.com/FiuuPayment
 - Website:    https://fiuu.com/
-- Twitter:    https://twitter.com/FiuuPayment
+- X:    https://x.com/FiuuPayment
 - YouTube:    https://www.youtube.com/@FiuuPayment
 - Facebook:   https://www.facebook.com/FiuuPayment/
 - Instagram:  https://www.instagram.com/FiuuPayment/
