@@ -1,6 +1,7 @@
 [Shopping Cart Plugins] – Fiuu Shopify Payment App
 =====================
 
+<!-- ![shopify](https://user-images.githubusercontent.com/38641542/74416385-097a1e80-4e80-11ea-9bce-cc79fb9d9837.jpg) (Old) -->
 ![Web 1920 – 7](https://github.com/user-attachments/assets/ef7eea89-9c05-438a-b138-f720c7b9b0e8)
 
 Hosted Payment for Shopify developed by Fiuu technical team.
